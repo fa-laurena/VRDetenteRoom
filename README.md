@@ -1,4 +1,4 @@
-<h1> AR Filter </h1>
+<h1> Linear Regression USA Hoursing projection Model </h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
