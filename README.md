@@ -1,4 +1,4 @@
-<h1> Linear Regression USA Hoursing </h1>
+<h1> USA Hoursing - Linear Regression  </h1>
 
 <h2>Description</h2>
 Project consists of a simple linear regression model training to determine the best Housing area of the USA States to consider real estate, it include area and estimations data important to i train the model correctly.
