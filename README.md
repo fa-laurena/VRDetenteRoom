@@ -35,6 +35,15 @@ Image description : <br/>
 Image description : <br/>
 <img src="https://i.imgur.com/KcvQRTa.png"80%" alt="Disk Sanitization Steps"/>
 <br />
+ Image description : <br/>
+<img src="https://i.imgur.com/9VmuPgU.png"80%" alt="Disk Sanitization Steps"/>
+<br />
+ Image description : <br/>
+<img src="https://i.imgur.com/Lmy2J7n.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Image description : <br/>
+<img src="https://i.imgur.com/9bnC5xX.png"80%" alt="Disk Sanitization Steps"/>
+<br />
  
 <!--
  ```diff
