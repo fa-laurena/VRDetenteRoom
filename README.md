@@ -1,4 +1,4 @@
-<h1> Linear regression - ML </h1>
+<h1> AR Filter </h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
