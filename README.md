@@ -44,7 +44,19 @@ Image description : <br/>
 Image description : <br/>
 <img src="https://i.imgur.com/9bnC5xX.png"80%" alt="Disk Sanitization Steps"/>
 <br />
- 
+ <img src="https://i.imgur.com/xnVJki5.png80%" alt="Disk Sanitization Steps"/>
+<br />
+ Image description : <br/>
+<img src="https://i.imgur.com/A28qUCV.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Image description : <br/>
+<img src="https://i.imgur.com/I33MVQn.png"80%" alt="Disk Sanitization Steps"/>
+<br />
+
+ <h2>Summary</h2>
+we can determine from the trainned models ...
+<br />
+
 <!--
  ```diff
 - text in red
