@@ -14,13 +14,15 @@ Project consists of a simple linear regression model training to determine the b
 
 - <b>Jupiter notebook</b> (21H2)
 
-<h2>Program walk-through(See files attached):</h2>
+<h2>USA Housing project walk-through(See files attached):</h2>
 
 <p align="center">
-USA Housing project : <br/>
+Image description : <br/>
 <img src="https://i.imgur.com/gsdMDja.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-
+Image description : <br/>
+<img src="https://i.imgur.com/gsdMDja.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
 <!--
  ```diff
