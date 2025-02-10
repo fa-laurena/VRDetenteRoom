@@ -18,12 +18,24 @@ Project consists of a simple linear regression model training to determine the b
 
 <p align="center">
 Image description : <br/>
-<img src="https://i.imgur.com/gsdMDja.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8WQfwTQ.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Image description : <br/>
-<img src="https://i.imgur.com/gsdMDja.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/csFrJTd.png"80%" alt="Disk Sanitization Steps"/>
 <br />
-
+Image description : <br/>
+<img src="https://i.imgur.com/whgNz6k.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Image description : <br/>
+<img src="https://i.imgur.com/kZj7omu.png"80%" alt="Disk Sanitization Steps"/>
+<br />
+ Image description : <br/>
+<img src="https://i.imgur.com/8GX6SEF.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Image description : <br/>
+<img src="https://i.imgur.com/KcvQRTa.png"80%" alt="Disk Sanitization Steps"/>
+<br />
+ 
 <!--
  ```diff
 - text in red
